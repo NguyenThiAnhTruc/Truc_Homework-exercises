@@ -1,0 +1,10 @@
+D:\2212479_PTUDDesktop\2212479_NTATruc_Homework exercises\BaiTrang56\bin\Debug\BaiTrang56.exe.config
+D:\2212479_PTUDDesktop\2212479_NTATruc_Homework exercises\BaiTrang56\bin\Debug\BaiTrang56.exe
+D:\2212479_PTUDDesktop\2212479_NTATruc_Homework exercises\BaiTrang56\bin\Debug\BaiTrang56.pdb
+D:\2212479_PTUDDesktop\2212479_NTATruc_Homework exercises\BaiTrang56\obj\Debug\BaiTrang56.csproj.AssemblyReference.cache
+D:\2212479_PTUDDesktop\2212479_NTATruc_Homework exercises\BaiTrang56\obj\Debug\BaiTrang56.Properties.Resources.resources
+D:\2212479_PTUDDesktop\2212479_NTATruc_Homework exercises\BaiTrang56\obj\Debug\BaiTrang56.RadioButton.resources
+D:\2212479_PTUDDesktop\2212479_NTATruc_Homework exercises\BaiTrang56\obj\Debug\BaiTrang56.csproj.GenerateResource.cache
+D:\2212479_PTUDDesktop\2212479_NTATruc_Homework exercises\BaiTrang56\obj\Debug\BaiTrang56.csproj.CoreCompileInputs.cache
+D:\2212479_PTUDDesktop\2212479_NTATruc_Homework exercises\BaiTrang56\obj\Debug\BaiTrang56.exe
+D:\2212479_PTUDDesktop\2212479_NTATruc_Homework exercises\BaiTrang56\obj\Debug\BaiTrang56.pdb

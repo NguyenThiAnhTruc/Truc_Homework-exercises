@@ -1,0 +1,10 @@
+D:\2212479_PTUDDesktop\2212479_NTATruc_Homework exercises\BaiTrang35\bin\Debug\BaiTrang35.exe.config
+D:\2212479_PTUDDesktop\2212479_NTATruc_Homework exercises\BaiTrang35\bin\Debug\BaiTrang35.exe
+D:\2212479_PTUDDesktop\2212479_NTATruc_Homework exercises\BaiTrang35\bin\Debug\BaiTrang35.pdb
+D:\2212479_PTUDDesktop\2212479_NTATruc_Homework exercises\BaiTrang35\obj\Debug\BaiTrang35.csproj.AssemblyReference.cache
+D:\2212479_PTUDDesktop\2212479_NTATruc_Homework exercises\BaiTrang35\obj\Debug\BaiTrang35.LinkLabel.resources
+D:\2212479_PTUDDesktop\2212479_NTATruc_Homework exercises\BaiTrang35\obj\Debug\BaiTrang35.Properties.Resources.resources
+D:\2212479_PTUDDesktop\2212479_NTATruc_Homework exercises\BaiTrang35\obj\Debug\BaiTrang35.csproj.GenerateResource.cache
+D:\2212479_PTUDDesktop\2212479_NTATruc_Homework exercises\BaiTrang35\obj\Debug\BaiTrang35.csproj.CoreCompileInputs.cache
+D:\2212479_PTUDDesktop\2212479_NTATruc_Homework exercises\BaiTrang35\obj\Debug\BaiTrang35.exe
+D:\2212479_PTUDDesktop\2212479_NTATruc_Homework exercises\BaiTrang35\obj\Debug\BaiTrang35.pdb

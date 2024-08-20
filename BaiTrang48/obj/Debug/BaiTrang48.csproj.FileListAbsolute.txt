@@ -1,0 +1,10 @@
+D:\2212479_PTUDDesktop\2212479_NTATruc_Homework exercises\BaiTrang48\bin\Debug\BaiTrang48.exe.config
+D:\2212479_PTUDDesktop\2212479_NTATruc_Homework exercises\BaiTrang48\bin\Debug\BaiTrang48.exe
+D:\2212479_PTUDDesktop\2212479_NTATruc_Homework exercises\BaiTrang48\bin\Debug\BaiTrang48.pdb
+D:\2212479_PTUDDesktop\2212479_NTATruc_Homework exercises\BaiTrang48\obj\Debug\BaiTrang48.csproj.AssemblyReference.cache
+D:\2212479_PTUDDesktop\2212479_NTATruc_Homework exercises\BaiTrang48\obj\Debug\BaiTrang48.Form1.resources
+D:\2212479_PTUDDesktop\2212479_NTATruc_Homework exercises\BaiTrang48\obj\Debug\BaiTrang48.Properties.Resources.resources
+D:\2212479_PTUDDesktop\2212479_NTATruc_Homework exercises\BaiTrang48\obj\Debug\BaiTrang48.csproj.GenerateResource.cache
+D:\2212479_PTUDDesktop\2212479_NTATruc_Homework exercises\BaiTrang48\obj\Debug\BaiTrang48.csproj.CoreCompileInputs.cache
+D:\2212479_PTUDDesktop\2212479_NTATruc_Homework exercises\BaiTrang48\obj\Debug\BaiTrang48.exe
+D:\2212479_PTUDDesktop\2212479_NTATruc_Homework exercises\BaiTrang48\obj\Debug\BaiTrang48.pdb

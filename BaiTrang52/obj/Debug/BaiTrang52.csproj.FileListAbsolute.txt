@@ -1,0 +1,10 @@
+D:\2212479_PTUDDesktop\2212479_NTATruc_Homework exercises\BaiTrang52\bin\Debug\BaiTrang52.exe.config
+D:\2212479_PTUDDesktop\2212479_NTATruc_Homework exercises\BaiTrang52\bin\Debug\BaiTrang52.exe
+D:\2212479_PTUDDesktop\2212479_NTATruc_Homework exercises\BaiTrang52\bin\Debug\BaiTrang52.pdb
+D:\2212479_PTUDDesktop\2212479_NTATruc_Homework exercises\BaiTrang52\obj\Debug\BaiTrang52.csproj.AssemblyReference.cache
+D:\2212479_PTUDDesktop\2212479_NTATruc_Homework exercises\BaiTrang52\obj\Debug\BaiTrang52.Properties.Resources.resources
+D:\2212479_PTUDDesktop\2212479_NTATruc_Homework exercises\BaiTrang52\obj\Debug\BaiTrang52.csproj.GenerateResource.cache
+D:\2212479_PTUDDesktop\2212479_NTATruc_Homework exercises\BaiTrang52\obj\Debug\BaiTrang52.csproj.CoreCompileInputs.cache
+D:\2212479_PTUDDesktop\2212479_NTATruc_Homework exercises\BaiTrang52\obj\Debug\BaiTrang52.exe
+D:\2212479_PTUDDesktop\2212479_NTATruc_Homework exercises\BaiTrang52\obj\Debug\BaiTrang52.pdb
+D:\2212479_PTUDDesktop\2212479_NTATruc_Homework exercises\BaiTrang52\obj\Debug\BaiTrang52.ListBoxs.resources
